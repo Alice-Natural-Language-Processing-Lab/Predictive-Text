@@ -3,7 +3,8 @@ Given a text file (Dr. Seuss provided as example), this program will write a new
 
 # What I Learned
 - How to use HashMap and HashNode.
-- Quadratic and Linear Collision handling.
+- (1)-Quadratic and (2)-Linear probing for collision handling.
+- Calculating HashCode values using (1)-Modulo method, and by (2)-converting to ASCII prior to Modulo method.
 - Refactoring HashMaps to properly store values in cases of inefficiency.
 
 # How to Use
