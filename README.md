@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/koreymitchell/Predictive-Text.svg)](http://hits.dwyl.com/koreymitchell/Predictive-Text)
+
 # Predictive Text
 Given a text file (Dr. Seuss provided as example), this program will write a new story using text prediction.
 
